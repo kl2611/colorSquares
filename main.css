@@ -1,0 +1,13 @@
+.container {
+    margin-left: 200px;
+    border: solid black 1px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+    margin: 5px;
+    display: inline-block;
+    transition: 2s;
+ }
